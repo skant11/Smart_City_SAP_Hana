@@ -10,8 +10,6 @@ https://github.com/kantsk11/Smart_City_SAP_Hana/blob/master/Arduino.ino
 
 The Project Video is here:
 
-[![Project Video: Smart City, toxic emission monitoring](http://img.youtube.com/vi/Y2Q8j7ibcoQ/0.png)](Y2Q8j7ibcoQ)
-
-
+[![Project Video: Smart City, toxic emission monitoring](https://i.ytimg.com/vi/12xyXtlWDks/1.jpg)](Y2Q8j7ibcoQ)
 or
 https://drive.google.com/file/d/0B1OE0IqQVrHCM01MNk9HSVNHRVE/view?usp=sharing
