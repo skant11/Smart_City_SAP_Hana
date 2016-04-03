@@ -8,10 +8,6 @@ The sole idea of this project is to achieve full automation of the Pollution Und
 The Arduino Code
 [Arduino.ino](./Arduino.ino)
 
-*The Project Video is here:
 
 [Project Video: Smart City, toxic emission monitoring](https://i.ytimg.com/vi/12xyXtlWDks/1.jpg)](Y2Q8j7ibcoQ)
-
-https://www.youtube.com/watch?v=12xyXtlWDks
-            or
-https://drive.google.com/file/d/0B1OE0IqQVrHCM01MNk9HSVNHRVE/view?usp=sharing
+*[The Project Video is here:](https://www.youtube.com/watch?v=12xyXtlWDks)
