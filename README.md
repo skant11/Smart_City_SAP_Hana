@@ -5,16 +5,16 @@ Smart City Project: Monitoring Vehicle Toxic Emission Remotely
 
 The sole idea of this project is to achieve full automation of the Pollution Under Control (PUC) system  which will help to keep a coherent track on a vehicle’s exhaust emission.
 
-##The Arduino Code
+### The Arduino Code
 The code required for communicating with the HCP is here
 - [Arduino.ino](./Arduino.ino)
 
 
-##Project Video
+### Project Video
 This video demonstrates the objective, problem statement, prototyping and the live demonstration of the working of the prototype.
 - [The Project Video is here:](https://www.youtube.com/watch?v=12xyXtlWDks)
 
-## Brief Description of the project
+### Brief Description of the project
 
 The sole purpose of the project is to monitor the toxic emission of the motor vehicle in real time. Here are some of the benifits of the project
 
